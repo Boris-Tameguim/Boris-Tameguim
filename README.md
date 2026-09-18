@@ -19,7 +19,7 @@ Hands-on SOC analyst home labs built demonstrating practical skills in security 
 ## About
 Built as part of a self-directed home lab program to turn theoretical coursework into demonstrable, hands-on experience. Each project folder contains a full write-up: objective, tools, steps performed, key takeaways, and screenshots.
 
-<h2> Certifications</h2>
+# 📝 Certifications
 
 <p align="left">
   <img src="It%20Support.png" alt="Google IT Support Professional Certificate" width="170" />
@@ -37,6 +37,6 @@ Governance, risk management, compliance, security controls, and risk assessment.
 
 - **CompTIA Security +** (In progress)
 
-<h2> 🤳 Connect with me:</h2>
+# 🤳 Connect with me:
 
 - LinkedIn: https://www.linkedin.com/in/boriskt/
