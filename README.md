@@ -32,7 +32,7 @@ IT troubleshooting, networking, operating systems, system administration, and cu
 - **Google Cybersecurity Professional Certificate**  
 Cybersecurity foundations, Linux, SQL, SIEM concepts, incident response, and network security.
 
-- **GRC Mastery ** (In progress)  
+- **GRC Mastery** (In progress)  
 Governance, risk management, compliance, security controls, and risk assessment.
 
 - **CompTIA Security +** (In progress)
