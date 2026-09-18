@@ -21,18 +21,21 @@ Built as part of a self-directed home lab program to turn theoretical coursework
 
 <h2> Certifications</h2>
 
-
-**Google Cybersecurity Professional Certificate**  
-Cybersecurity foundations, Linux, SQL, SIEM concepts, incident response, and network security.
 <p align="left">
-  <a href="PASTE-YOUR-VERIFICATION-LINK-HERE" target="_blank">
-    <img src="https://github.com/Boris-Tameguim/Boris-Tameguim/blob/f3608331e3f8d075fcfbddb94fb16fe73009363b/cyber.png" 
-         alt="Google Cybersecurity Professional Certificate" 
-         width="150"/>
-  </a>
+  <img src="It%20Support.png" alt="Google IT Support Professional Certificate" width="170" />
+  <img src="cyber.png" alt="Google Cybersecurity Professional Certificate" width="170" />
 </p>
 
-**CompTIA Security+** — In progress
+- **Google IT Support Professional Certificate**  
+IT troubleshooting, networking, operating systems, system administration, and customer support.
+
+- **Google Cybersecurity Professional Certificate**  
+Cybersecurity foundations, Linux, SQL, SIEM concepts, incident response, and network security.
+
+- **GRC Mastery ** (In progress)  
+Governance, risk management, compliance, security controls, and risk assessment.
+
+- **CompTIA Security +** (In progress)
 
 <h2> 🤳 Connect with me:</h2>
 
