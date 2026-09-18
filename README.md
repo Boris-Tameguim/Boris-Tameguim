@@ -4,7 +4,7 @@
 
 # 👨‍💻 Cybersecurity Home Lab Portfolio
 
-Hands-on SOC analyst home labs built to demonstrate demonstrating practical skills in security monitoring, incident triage, network analysis, Linux administration, identity management, and help-desk support.
+Hands-on SOC analyst home labs built demonstrating practical skills in security monitoring, incident triage, network analysis, Linux administration, identity management, and help-desk support.
 
 ## Projects
 
