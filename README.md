@@ -2,6 +2,23 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+# Cybersecurity Home Lab Portfolio
+
+Hands-on SOC analyst home labs built to demonstrate practical, job-ready skills — not just certifications.
+
+## Projects
+
+| # | Project | Skills Demonstrated | Status |
+|---|---------|---------------------|--------|
+| 1 | [SIEM Lab (Wazuh)](./01-siem-wazuh) | Log ingestion, SIEM administration, endpoint monitoring | ⬜ |
+| 2 | [Help Desk Ticketing (osTicket + Docker)](./02-helpdesk-osticket) | Ticket lifecycle management, containerization | ⬜ |
+| 3 | [Packet Capture (Wireshark)](./03-packet-capture-wireshark) | Network traffic analysis, protocol identification | ⬜ |
+| 4 | [Apache Web Server (Linux)](./04-apache-linux) | Linux administration, service troubleshooting | ⬜ |
+| 5 | [Identity Management (Entra ID)](./05-identity-entra-id) | IAM, user/group/permission administration | ⬜ |
+
+## About
+Built as part of a self-directed home lab program to turn theoretical coursework into demonstrable, hands-on experience. Each project folder contains a full write-up: objective, tools, steps performed, key takeaways, and screenshots.
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
