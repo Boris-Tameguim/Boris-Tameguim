@@ -1,10 +1,8 @@
 <h1>Hi, I'm Boris! <br/><a <a href="https://www.linkedin.com/in/boriskt/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+# 👨‍💻 Cybersecurity Home Lab Portfolio
 
-# Cybersecurity Home Lab Portfolio
-
-Hands-on SOC analyst home labs built to demonstrate practical, job-ready skills — not just certifications.
+Hands-on SOC analyst home labs built to demonstrate practical job-ready skills, not just certifications.
 
 ## Projects
 
