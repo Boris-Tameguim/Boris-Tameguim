@@ -4,7 +4,7 @@
 
 # 👨‍💻 Cybersecurity Home Lab Portfolio
 
-Hands-on SOC analyst home labs built to demonstrate practical job-ready skills, not just certifications.
+Hands-on SOC analyst home labs built to demonstrate demonstrating practical skills in security monitoring, incident triage, network analysis, Linux administration, identity management, and help-desk support.
 
 ## Projects
 
@@ -19,7 +19,7 @@ Hands-on SOC analyst home labs built to demonstrate practical job-ready skills, 
 ## About
 Built as part of a self-directed home lab program to turn theoretical coursework into demonstrable, hands-on experience. Each project folder contains a full write-up: objective, tools, steps performed, key takeaways, and screenshots.
 
-<h2>📝 Certifications</h2>
+<h2> Certifications</h2>
 
 <p align="left">
   <a href="PASTE-YOUR-VERIFICATION-LINK-HERE" target="_blank">
@@ -36,6 +36,4 @@ Cybersecurity foundations, Linux, SQL, SIEM concepts, incident response, and net
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/boriskt/
+- LinkedIn: https://www.linkedin.com/in/boriskt/
