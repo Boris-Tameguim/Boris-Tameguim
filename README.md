@@ -32,7 +32,7 @@ Built as part of a self-directed home lab program to turn theoretical coursework
 **Google Cybersecurity Professional Certificate**  
 Cybersecurity foundations, Linux, SQL, SIEM concepts, incident response, and network security.
 
-- **CompTIA Security+** — In progress
+**CompTIA Security+** — In progress
 
 <h2> 🤳 Connect with me:</h2>
 
