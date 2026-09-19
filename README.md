@@ -1,6 +1,6 @@
 <h1>Hi, I'm Boris! <br/><a <a href="https://www.linkedin.com/in/boriskt/">Cybersecurity Professional</a>
 
-## Aspiring SOC analyst and cybersecurity professional in Montreal, Quebec | 5 years of IT support experience | Working toward Security+ | Splunk, Sentinel, Active Directory | EN/FR
+## SOC analyst and cybersecurity professional in Montreal, Quebec | 5 years of IT support experience | Working toward Security+ | Splunk, Sentinel, Active Directory | EN/FR
 
 # 👨‍💻 Cybersecurity Home Lab Portfolio
 
