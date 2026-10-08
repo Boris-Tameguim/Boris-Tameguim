@@ -10,7 +10,7 @@ Hands-on SOC analyst home labs demonstrating practical skills in security monito
 
 | # | Project | Skills Demonstrated | Status |
 |---|---------|---------------------|--------|
-| 1 | [UTM SOC Home Lab - Kali + Windows](https://github.com/Boris-Tameguim/soc-home-lab-portfolio) | Virtualization, ARM64 systems, IP networking, routing, Windows Firewall troubleshooting | ✅ Complete |
+| 1 | [UTM SOC Home Lab - Kali + Windows](https://github.com/Boris-Tameguim/utm-kali-windows-home-lab) | Virtualization, ARM64 systems, IP networking, routing, Windows Firewall troubleshooting | ✅ Complete |
 | 2 | [MyFirstHack Internship - SOC Track](./00-myfirsthack-soc) | SOC monitoring, alert triage, incident investigation, security operations | In progress |
 | 3 | [SIEM Lab (Wazuh)](./01-siem-wazuh) | Log ingestion, SIEM administration, endpoint monitoring | In progress |
 | 4 | [Help Desk Ticketing (osTicket + Docker)](./02-helpdesk-osticket) | Ticket lifecycle management, containerization | In progress |
