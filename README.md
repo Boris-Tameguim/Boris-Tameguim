@@ -11,8 +11,8 @@ Hands-on SOC analyst home labs demonstrating practical skills in security monito
 | # | Project | Skills Demonstrated | Status |
 |---|---------|---------------------|--------|
 | 1 | [UTM SOC Home Lab - Kali + Windows](https://github.com/Boris-Tameguim/utm-kali-windows-home-lab) | Virtualization, ARM64 systems, IP networking, routing, Windows Firewall troubleshooting | ✅ Complete |
-| 2 | [MyFirstHack Internship - SOC Track](https://github.com/Boris-Tameguim/myfirsthack-soc-track) | SOC monitoring, alert triage, incident investigation, security operations | In progress |
-| 3 | SIEM Labs ([Splunk](https://github.com/Boris-Tameguim/splunk-windows-event-log-lab) / [Wazuh](https://github.com/Boris-Tameguim/wazuh-siem-lab)) | Windows log ingestion, SIEM administration, endpoint monitoring, basic security investigation | Splunk ✅ / Wazuh ⏳ |
+| 2 | SIEM Labs ([Splunk](https://github.com/Boris-Tameguim/splunk-windows-event-log-lab) / [Wazuh](https://github.com/Boris-Tameguim/wazuh-siem-lab)) | Windows log ingestion, SIEM administration, endpoint monitoring, basic security investigation | Splunk ✅ / Wazuh ⏳ |
+| 3 | [MyFirstHack Internship - SOC Track](https://github.com/Boris-Tameguim/myfirsthack-soc-track) | SOC monitoring, alert triage, incident investigation, security operations | In progress |
 | 4 | [Help Desk Ticketing (osTicket + Docker)](https://github.com/Boris-Tameguim/osticket-docker-helpdesk-lab) | Ticket lifecycle management, containerization | In progress |
 | 5 | [Packet Capture (Wireshark)](https://github.com/Boris-Tameguim/wireshark-packet-analysis-lab) | Network traffic analysis, protocol identification | In progress |
 | 6 | [Apache Web Server (Linux)](https://github.com/Boris-Tameguim/apache-linux-web-server-lab) | Linux administration, service troubleshooting | In progress |
